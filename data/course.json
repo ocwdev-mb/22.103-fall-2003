@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Transport Processes"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ]
+  ],
+  "legacy_uid": "686171b1-f42b-4e19-ca86-c446afc96e28",
+  "instructors": {
+    "content": [
+      "3405424c-549f-b78b-fee5-ca4120aad975"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c8baab8e-1f3b-0512-7ba9-9dbb6e82ac5a",
+    "website": "22-103-microscopic-theory-of-transport-fall-2003"
+  },
+  "course_title": "Microscopic Theory of Transport",
+  "course_description": "Transport is among the most fundamental and widely studied phenomena in science and engineering. This subject will lay out the essential concepts and current understanding, with emphasis on the molecular view, that cut across all disciplinary boundaries. (Suitable for all students in research.)\n\n*   Broad perspectives of transport phenomena\n*   From theory and models to computations and simulations\n*   Micro/macro coupling\n*   Current research insights\n",
+  "department_numbers": [
+    "22"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "22.103",
+  "course_image_thumbnail": {
+    "content": "2be9ef89-98a8-c10e-4bc7-a8a8a30fc824",
+    "website": "22-103-microscopic-theory-of-transport-fall-2003"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "37391b12-6724-41be-a63d-38064a0d46ef",
+  "site_short_id": "22.103-fall-2003",
+  "title": "Course Metadata"
+}
